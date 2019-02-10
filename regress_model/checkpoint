@@ -1,0 +1,3 @@
+model_checkpoint_path: "trained-model"
+all_model_checkpoint_paths: "..\\trained-model"
+all_model_checkpoint_paths: "trained-model"
